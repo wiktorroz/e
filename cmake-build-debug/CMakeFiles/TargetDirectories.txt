@@ -1,0 +1,3 @@
+C:/Users/student/Desktop/dzialaj/cmake-build-debug/CMakeFiles/dzialaj.dir
+C:/Users/student/Desktop/dzialaj/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/student/Desktop/dzialaj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
